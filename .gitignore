@@ -131,3 +131,4 @@ dmypy.json
 #others
 runs/
 cifar-10-batches-py/
+old_stuff.zip
