@@ -132,3 +132,9 @@ dmypy.json
 runs/
 cifar-10-batches-py/
 old_stuff.zip
+train_valid_leaky.ipynb
+cross_entopy_try.py
+*.pdf
+cifar_net_Dropout_0p1_LeakyRelu_latest.pth
+cifar_net_Dropout_0p1_LeakyRelu.pth
+runtime.png
