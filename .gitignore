@@ -138,3 +138,4 @@ cross_entopy_try.py
 cifar_net_Dropout_0p1_LeakyRelu_latest.pth
 cifar_net_Dropout_0p1_LeakyRelu.pth
 runtime.png
+train_valid_1x1conv.ipynb
